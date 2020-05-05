@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.heimrarnadalr.logicalrecipes.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ShapedRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
